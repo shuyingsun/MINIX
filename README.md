@@ -1,0 +1,2 @@
+# MINIX
+MINIX learning project
